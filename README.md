@@ -18,16 +18,16 @@ Skills & Technologies
 My Projects:
 
 1. Predictive Sales Dashboard
-   Sales analysis, trend visualization, and sales forecasting.
+   : Sales analysis, trend visualization, and sales forecasting.
 
 2. Car Price Prediction
-   Predicting car prices using machine learning.
+   : Predicting car prices using machine learning.
 
 3. Diabetes Prediction
-   Predicting diabetes risk using machine learning.
+   : Predicting diabetes risk using machine learning.
 
 4. NEUROXAI
-   Explainable AI for MRI analysis and progression tracking.
+  :  Explainable AI for MRI analysis and progression tracking.
 
 Areas of Interest
 Data Analytics | Predictive Analytics | AI | Machine Learning | Data Visualization
