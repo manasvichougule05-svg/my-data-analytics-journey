@@ -13,7 +13,7 @@ Skills & Technologies
 - Microsoft Excel
 - Power BI
 - Machine Learning
-- 📉 Data Visualization
+- Data Visualization
 
 My Projects:
 
