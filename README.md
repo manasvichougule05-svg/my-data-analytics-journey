@@ -15,11 +15,19 @@ Skills & Technologies
 - Machine Learning
 - 📉 Data Visualization
 
-My Projects
--Predictive Sales Dashboard — Sales analysis, trend visualization, and sales forecasting.
--Car Price Prediction — Predicting car prices using machine learning.
--Diabetes Prediction — Predicting diabetes risk using machine learning.
--NEUROXAI — Explainable AI for MRI analysis and progression tracking.
+My Projects:
+
+1. Predictive Sales Dashboard
+   Sales analysis, trend visualization, and sales forecasting.
+
+2. Car Price Prediction
+   Predicting car prices using machine learning.
+
+3. Diabetes Prediction
+   Predicting diabetes risk using machine learning.
+
+4. NEUROXAI
+   Explainable AI for MRI analysis and progression tracking.
 
 Areas of Interest
 Data Analytics | Predictive Analytics | AI | Machine Learning | Data Visualization
